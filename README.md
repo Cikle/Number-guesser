@@ -22,12 +22,12 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 2    |      muss       | F Q R (funktionalität, Qualität, rand) |   Als ein User möchte ich       |
-| 3    |      muss       |  F  |   Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
-| 4    |      muss       |     |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann.    |
-| 5    |      kann       |  Q  |   Es kann ein Schönes oder gutes Design haben  |
-| 6    |      kann       |     |
+| ?   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| ?    |      muss       | F Q R (funktionalität, Qualität, rand) |   Als ein User möchte ich       |
+| 1    |      muss       |  F  | Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
+| 2   |      muss       |     |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
+| 3   |      kann       |  Q  |   Es kann ein Schönes oder gutes Design haben  |
+| 4    |      kann       |     |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -35,8 +35,8 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.2.1  |    eingabefeld + Grösser oder Kleiner anzeige       |         |         Ein grösser> oder kleiner<          |
-| 1.2.1 |  Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.         |  eine von den 26 buchstaben oder Sonderzeichen       |   Warnungsfeld                |
+| 1.1  | eingabefeld + Grösser oder Kleiner anzeige |         |    Ein grösser> oder kleiner< Zeichen   |
+| 1.2  | Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.| eine von den 26 buchstaben oder Sonderzeichen |   Warnungsfeld|
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
