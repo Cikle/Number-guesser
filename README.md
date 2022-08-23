@@ -53,6 +53,7 @@
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  30.08     |    Cyril Lutziger     |      Das Codieren des Spieles welches für mich schwer sein wird, sowie auch die verschiedene Sachen rund um das Spiel.       |     90min       |
 | ...  |    30.08   | Cyril Lutziger      |     Verschiedene Fehlerbehebungen rund um das Spiel       |     90min       |
+| ...  |    6.09   | Cyril Lutziger      |     Das designen vom Umfeld des spieles und Implementieren von Sound effects.       |     30min      |
 
 Total: 
 
