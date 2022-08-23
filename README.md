@@ -38,11 +38,13 @@
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
+
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Number-guesser](https://user-images.githubusercontent.com/110893288/186114511-0874fc52-6eb2-41a0-aba6-5c312d279285.png)
 
 ## 2 Planen
 
