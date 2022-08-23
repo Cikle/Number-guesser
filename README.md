@@ -51,8 +51,8 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |     1      |      Coden des Spieles        |     90min       |
-| ...  |       |     1      |      fehler behebungen        |     90min       |
+| 1.A  |  30.08     |    Cyril Lutziger     |      Das Codieren des Spieles welches für mich schwer sein wird, sowie auch die verschiedene Sachen rund um das Spiel.       |     90min       |
+| ...  |    30.08   | Cyril Lutziger      |     Verschiedene Fehlerbehebungen rund um das Spiel       |     90min       |
 
 Total: 
 
