@@ -9,7 +9,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-| 23.08 | 0.0.2   | Ich habe eine PAP designed in welcher ich schauen kann ob es funktioniert                                                              |
+| 23.08 | 0.0.2   | Ich habe eine PAP designed in welcher ich schauen kann wie ich vorgehen sollte.                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
