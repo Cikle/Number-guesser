@@ -23,12 +23,11 @@
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |      muss           | F Q R(funktionalität, Qualität, rand) |   Als ein User möchte ich       |
-| ...  |                 | muss |   Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
-| ...  |                 | muss |   Als ein User möchte ich ein    |
-| ...  |                 | kann |   Es kann ein Schönes oder gutes Design haben  |
-| ...  |                 | kann |   Es kann verschiedene farben beinhalten      |
-c
+| 2    |      muss       | F Q R (funktionalität, Qualität, rand) |   Als ein User möchte ich       |
+| 3    |      muss       |  F  |   Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
+| 4    |      muss       |     |   Als ein User möchte ich ein    |
+| 5    |      kann       |  Q  |   Es kann ein Schönes oder gutes Design haben  |
+| 6    |      kann       |     |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
