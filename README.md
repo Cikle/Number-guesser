@@ -65,6 +65,8 @@ Total:
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
+Da ich bisher nur die Verschiedenen Probleme die aufkommen können nachgedacht und aufgeschrieben habe, konnte ich noch nicht bestimmte Entscheidungen und Annahmen treffen im Bezug auf die User stories.
+
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
