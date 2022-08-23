@@ -27,12 +27,15 @@
 `| ...  |                 | muss |   Als ein User möchte ich...              |`
 
 | ...  |                 | muss |   Als ein User möchte ich       |
+| ----- | ------- | ------------------------------------------------------------ |
 | ...  |                 | muss |   Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
+| ----- | ------- | ------------------------------------------------------------ |
 | ...  |                 | muss |   Als ein User möchte ich ein    |
 
 `| ...  |                 | kann |   Es kann ein...                          |`
 
 | ...  |                 | kann |   Es kann ein Schönes oder gutes Design haben  |
+| ----- | ------- | ------------------------------------------------------------ |
 | ...  |                 | kann |   Es kann verschiedene farben beinhalten      |
 c
 
