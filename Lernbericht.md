@@ -8,9 +8,8 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 | 23.08 | 0.0.2   | Heute hatten wurde mir das Projekt vorgestellt, welches ich machen muss. Dan nach habe eine PAP designt/erstellt in welcher ich schauen kann wie ich beim Coden vorgehen sollte, auch habe ich verschiedene Probleme angeschaut welche vorkommen könnte sowie auch verschiedene Problem User, welche das Spiel kaputt machen wollen und auch aufgeschrieben was diese machen könnten sowie auch die Lösungen davon.    |
-|       | 1.0.0   |                                                              |
+| 30.08 | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
