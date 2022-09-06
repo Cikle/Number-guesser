@@ -22,17 +22,21 @@ Cyril Lutziger
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      muss       |  F  | Als ein User möchte ich das ich eine Zahl eingeben kann welcher dannach gesagt wird ob die Lösungszahl grösser oder kleiner ist. |
-| 2   |      muss       |     |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
-| 3   |      kann       |  Q  |   Es kann ein bequemes design haben|
-| 4    |      kann       |  Q   | Es kann einen Gewinner-screen haben damit man so wie belohnt wird die richtige Lösung geraten zu haben. |
+| 2   |      muss       |   F  |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
+| 3    |      muss      |  F  | Als User möchte ich wissen wenn ich die richtige eingabe getroffen habe, dass ich gewonnen habe, damit das Spiel auch ein Ende hat. Es kann auch einen Gewinner-screen haben damit man so wie belohnt wird wenn die richtige Lösung geraten zu haben. |
+| 4  |      kann       |  Q  |   Es kann ein bequemes design haben|
+
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | eingabefeld + Grösser oder Kleiner anzeige |         |    Ein grösser> oder kleiner< Zeichen   |
-| 2.1  | Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.| eine von den 26 buchstaben oder Sonderzeichen |   Warnungsfeld|
+| 1.1  | Das Programm ist gestartet und hat sich eine Zahl zwischen 1 und 100 generiert |  24      |  kleiner oder grösser     |
+| 1.2  | Das Programm ist gestartet und sagt mir ob meine Eingabe z.B. die 24 grösser oder kleiner ist als die Zahl des Computers  |  24      |  kleiner oder grösser     |
+| 2.1  | Eine warnung mit welche besagt das man keine Sonderzeichen eingeben kann sowie Buchstaben.| eine von den 26 buchstaben oder Sonderzeichen |   Warnungsfeld mit "Ihre Eingabe ist ungültig oder wurde nicht erkannt, bitte geben Sie diese erneut ein."|
+| 3.1  | Ein Sie haben gewonnen Schrift | 24 |   "Sie haben Gewonnen!"|
+| 3.2  | Ein Sie haben gewonnen Bildschirm | 24 |  "Sie haben Gewonnen!" |
 | 4.1 | ein gewinner "Sie haben Gewonnen Screen" | verschiedenen designs mit farben etc. | Ein gutes design |
 
 
