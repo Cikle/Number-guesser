@@ -25,6 +25,7 @@ Cyril Lutziger
 | 2   |      muss       |   F  |   Als ein User möchte ich das dass Programm richtig läuft damit ich keine Buchstaben oder Sonderzeichen eingeben kann. |
 | 3    |      muss      |  F  | Als User möchte ich wissen wenn ich die richtige eingabe getroffen habe, dass ich gewonnen habe, damit das Spiel auch ein Ende hat. |
 | 4  |      kann       |  Q  |   Es kann ein bequemes design haben damit ich ein gutes Spielerlebniss habe. Es kann auch einen Gewinner-screen haben damit man so wie belohnt wird wenn die richtige Lösung geraten zu haben. |
+| 5  |      kann       |   Q  |   Als ein User möchte ich die Auswahl haben ein neues Spiel zu starten, damit ich nicht die ganze Zeit das Programm neu starten muss. |
 
 
 
@@ -38,6 +39,7 @@ Cyril Lutziger
 | 3.1  | Ein Sie haben gewonnen Schrift | 24 |   "Sie haben Gewonnen!"|
 | 4.1 | ein gewinner "Sie haben Gewonnen Screen" | verschiedenen designs mit farben etc. | Ein gutes design |
 | 4.2  | Ein Sie haben gewonnen Bildschirm | Farben Schriften etc. |  "Sie haben Gewonnen!" |
+| 5.1  | Möchten Sie nochmals spielen? | ja/nein |  das ganze Programm nochmals durchführen oder beenden. |
 
 
 ### 1.4 Diagramme
@@ -56,6 +58,7 @@ Cyril Lutziger
 | 5.A  |    06.09   | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
 | 6.A  |   06.09   | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
 | 7.A  |    6.09   | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
+| 8.A  |    6.09   | Cyril Lutziger      |    Möchten Sie nochmals Spielen? text      |    45min      |
 
 Total: 
 
@@ -76,6 +79,7 @@ Da ich bisher nur die Verschiedenen Probleme die aufkommen können nachgedacht u
 | 5.A  |   06.09    |    Cyril Lutziger       |      20         |      45min             |
 | 6.A  |   06.09    |    Cyril Lutziger       |      45         |      konnte dies nicht implementieren, hatte immer wieder Probleme             |
 | 7.A  |    6.09   | Cyril Lutziger      |    45      |    90+min      |
+| 8.A  |    6.09   | Cyril Lutziger      |    45      |    90min      |
 
 ## 5 Kontrollieren
 
