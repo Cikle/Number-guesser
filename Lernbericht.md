@@ -49,11 +49,13 @@ Cyril Lutziger
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08     |    Cyril Lutziger     |      Das Codieren des Spieles welches für mich schwer sein wird, sowie auch die verschiedene Sachen rund um das Spiel.       |     90min       |
-| ...  |    30.08   | Cyril Lutziger      |     Verschiedene Fehlerbehebungen rund um das Spiel       |     45min       |
-| ...  |    6.09   | Cyril Lutziger      |     Das designen vom Umfeld des spieles und Implementieren von Sound effects.       |     45min      |
-| ...  |    6.09   | Cyril Lutziger      |    Problembehebungen des codes       |   2x  45min      |
-
+| 1.A  |  30.08     |    Cyril Lutziger     |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
+| 2.A  |    30.08   | Cyril Lutziger      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
+| 3.A  |    30.08   | Cyril Lutziger      |     Das designen vom Umfeld des spieles      |     45min      |
+| 4.A  |    06.09   | Cyril Lutziger      |    Problembehebungen des codes       |    90min      |
+| 5.A  |    06.09   | Cyril Lutziger      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
+| 6.A  |   06.09   | Cyril Lutziger      |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als eine Zahl eingegeben wurde.       |     45min       |
+| 7.A  |    6.09   | Cyril Lutziger      |    Problembehebungen des codes       |    45min      |
 
 Total: 
 
@@ -67,9 +69,13 @@ Da ich bisher nur die Verschiedenen Probleme die aufkommen können nachgedacht u
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  |   30.08    |   Cyril Lutziger        |     2x 45          |      135min           |
+| 2.A  |   30.08    |    Cyril Lutziger       |      45min         |      60min             |
+| 3.A  |   30.08    |    Cyril Lutziger       |      45min         |      30min             |
+| 4.A  |   06.09    |    Cyril Lutziger       |      45min         |      90min             |
+| 5.A  |   06.09    |    Cyril Lutziger       |      20         |      45min             |
+| 6.A  |   06.09    |    Cyril Lutziger       |      45         |      konnte dies nicht implementieren, hatte immer wieder Probleme             |
+| 7.A  |    6.09   | Cyril Lutziger      |    45      |    90+min      |
 
 ## 5 Kontrollieren
 
