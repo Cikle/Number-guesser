@@ -91,7 +91,7 @@ Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob si
 ### 5.1 Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
-|  | ----- | -------- | ------ |
+| ----- | -------- | ------ |
 |   1.1     |  30.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Cyril Lutziger      |
 |   2.1     |  30.08   |   Das Programm kann sagen ob ddie Zahl grösser oder kleiner ist        | Cyril Lutziger      |
 |   3.1    |  6.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Cyril Lutziger      |
