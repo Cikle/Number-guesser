@@ -2,7 +2,6 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 Cyril Lutziger
 
@@ -15,7 +14,7 @@ Cyril Lutziger
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Mein Projekt geht darum, dass es ein Spiel ist welche eine Zahl von 1-100 generiert und der User diese herausfinden mussmit verschiedenen Tips.
 
 ### 1.2 User Stories
 
