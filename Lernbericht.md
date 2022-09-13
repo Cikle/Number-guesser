@@ -65,8 +65,13 @@ Total:
 
 ## 3 Entscheiden
 
+Ich nehme an das der User ein einfaches aber noch gut assehendes design will, sodass es sich angenehm anfühlt.
 
-Da ich bisher nur die Verschiedenen Probleme die aufkommen können nachgedacht und aufgeschrieben habe, konnte ich noch nicht bestimmte Entscheidungen und Annahmen treffen im Bezug auf die User stories.
+Ich nehme an das der User Zahlen eingibt die entwedder grösser oder kleiner sind und erwarte dass, das Programm diese anzeigt.
+
+Ich nehme an das der User einen Gewinnerscreen haben will, somit er sich belohnt fühlt wenn er es geschafft hat.
+
+Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob sie nochmals spielen wollen.
 
 ## 4 Realisieren
 
@@ -86,15 +91,17 @@ Da ich bisher nur die Verschiedenen Probleme die aufkommen können nachgedacht u
 ### 5.1 Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+|  | ----- | -------- | ------ |
+|   1.1     |  30.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Cyril Lutziger      |
+|   2.1     |  30.08   |   Das Programm kann sagen ob ddie Zahl grösser oder kleiner ist        | Cyril Lutziger      |
+|   3.1    |  6.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Cyril Lutziger      |
+
+
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| 1   |  |    Aplikation gestartet        |   3,5, -4 oder buchstaben      |  Programm stürzt ab oder eine fehler anzeige                 |      Das Programm bittet um eine erneute Eingabe.                |
 
 ## 6 Auswerten
